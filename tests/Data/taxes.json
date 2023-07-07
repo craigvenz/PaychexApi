@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Employee Medicare Tax",
+    "paidBy": "EMPLOYEE_WITHHOLDING"
+  },
+  {
+    "name": "Employee Social Security Tax",
+    "paidBy": "EMPLOYEE_WITHHOLDING"
+  },
+  {
+    "name": "Employer Medicare Tax",
+    "paidBy": "EMPLOYER_LIABILITY"
+  },
+  {
+    "name": "Employer Social Security Tax",
+    "paidBy": "EMPLOYER_LIABILITY"
+  },
+  {
+    "name": "Federal Income Tax",
+    "paidBy": "EMPLOYEE_WITHHOLDING"
+  },
+  {
+    "name": "Federal Unemployment Insurance",
+    "paidBy": "EMPLOYER_LIABILITY"
+  },
+  {
+    "name": "Kansas City Income Tax",
+    "paidBy": "EMPLOYEE_WITHHOLDING"
+  },
+  {
+    "name": "Missouri Income Tax",
+    "paidBy": "EMPLOYEE_WITHHOLDING"
+  },
+  {
+    "name": "Missouri Unemployment Insurance",
+    "paidBy": "EMPLOYER_LIABILITY"
+  },
+  {
+    "name": "MTA Transit Tax",
+    "paidBy": "EMPLOYER_LIABILITY"
+  },
+  {
+    "name": "New York City Income Tax",
+    "paidBy": "EMPLOYEE_WITHHOLDING"
+  },
+  {
+    "name": "New York Disability Insurance",
+    "paidBy": "EMPLOYEE_WITHHOLDING"
+  },
+  {
+    "name": "New York Income Tax",
+    "paidBy": "EMPLOYEE_WITHHOLDING"
+  },
+  {
+    "name": "New York Paid Family Leave Insurance",
+    "paidBy": "EMPLOYEE_WITHHOLDING"
+  },
+  {
+    "name": "New York Unemployment Insurance",
+    "paidBy": "EMPLOYER_LIABILITY"
+  },
+  {
+    "name": "Re-employment Service Fund",
+    "paidBy": "EMPLOYER_LIABILITY"
+  }
+]

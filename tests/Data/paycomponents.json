@@ -1,0 +1,1329 @@
+{
+  "content": [
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030035104595665",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Fringe Vac Heavy +",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030035104594889",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Fringe Vac Bldg +",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "FRINGE_BENEFITS",
+      "componentId": "1030035053654732",
+      "description": "Use for non-cash fringe benefits that are FICA, FUTA, and FIT taxable.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "Fringe Vac-Heavy",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "INFORMATIONAL",
+      "componentId": "1030035069108422",
+      "description": "Use for information purposes only.",
+      "effectOnPay": "EMPLOYER_INFORMATIONAL",
+      "name": "CISA-BLDG",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030035053654855",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Building",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "INFORMATIONAL",
+      "componentId": "1030035054217869",
+      "description": "Use for information purposes only.",
+      "effectOnPay": "EMPLOYER_INFORMATIONAL",
+      "name": "Apprenticeship-Hvy",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030035055133957",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Bldg Earnings",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "SICK_PAY",
+      "componentId": "1030035006286103",
+      "description": "Use for non-qualified sick pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Sick",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "SUPPLEMENTAL",
+      "componentId": "1030035006286064",
+      "description": "Use for bonus pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Bonus",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030035006286024",
+      "description": "Use for holiday pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Holiday",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030035006285984",
+      "description": "Use for vacation pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Vacation",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "SUPPLEMENTAL",
+      "componentId": "1030035006285945",
+      "description": "Use for overtime pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Overtime",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030035006285904",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Salary",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030035006285864",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Hourly",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "INDEPENDENT_CONTRACTOR",
+        "EMPLOYEE"
+      ],
+      "classificationType": "INFORMATIONAL",
+      "componentId": "1030035054218531",
+      "description": "Use for information purposes only.",
+      "effectOnPay": "EMPLOYER_INFORMATIONAL",
+      "name": "Apprenticeship-Bld",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030035053002879",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Heavy",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "INFORMATIONAL",
+      "componentId": "1030035054219403",
+      "description": "Use for information purposes only.",
+      "effectOnPay": "EMPLOYER_INFORMATIONAL",
+      "name": "CISAP-Bldg",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "INDEPENDENT_CONTRACTOR",
+        "EMPLOYEE"
+      ],
+      "classificationType": "INFORMATIONAL",
+      "componentId": "1030035054218671",
+      "description": "Use for information purposes only.",
+      "effectOnPay": "EMPLOYER_INFORMATIONAL",
+      "name": "Pension-Bldg",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "INFORMATIONAL",
+      "componentId": "1030035054218316",
+      "description": "Use for information purposes only.",
+      "effectOnPay": "EMPLOYER_INFORMATIONAL",
+      "name": "Health & Welfare-Bld",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "INFORMATIONAL",
+      "componentId": "1030035054217726",
+      "description": "Use for information purposes only.",
+      "effectOnPay": "EMPLOYER_INFORMATIONAL",
+      "name": "Pension-Hvy",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030035051439489",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Other",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "INFORMATIONAL",
+      "componentId": "1030035054217819",
+      "description": "Use for information purposes only.",
+      "effectOnPay": "EMPLOYER_INFORMATIONAL",
+      "name": "IAF-Hvy",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030035051439446",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Regular",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "UNION_DUES",
+      "componentId": "1030035054218806",
+      "description": "Use for union dues.",
+      "effectOnPay": "REDUCTION",
+      "name": "Market Recovery-Bldg",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "FRINGE_BENEFITS",
+      "componentId": "1030035053655339",
+      "description": "Use for non-cash fringe benefits that are FICA, FUTA, and FIT taxable.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "Fringe Vac-Bldg",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "INFORMATIONAL",
+      "componentId": "1030035054218397",
+      "description": "Use for information purposes only.",
+      "effectOnPay": "EMPLOYER_INFORMATIONAL",
+      "name": "IAF-Bldg",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "UNION_DUES",
+      "componentId": "1030035053656233",
+      "description": "Use for union dues.",
+      "effectOnPay": "REDUCTION",
+      "name": "Supplemental-Hvy",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "INDEPENDENT_CONTRACTOR",
+        "EMPLOYEE"
+      ],
+      "classificationType": "INFORMATIONAL",
+      "componentId": "1030035053656480",
+      "description": "Use for information purposes only.",
+      "effectOnPay": "EMPLOYER_INFORMATIONAL",
+      "name": "Health & Welfare-Hvy",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "UNION_DUES",
+      "componentId": "1030035053655977",
+      "description": "Use for union dues.",
+      "effectOnPay": "REDUCTION",
+      "name": "Market Recovery-Hvy",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "FRINGE_BENEFITS",
+      "componentId": "1030035076819604",
+      "description": "Use for non-cash fringe benefits that are FICA, FUTA, and FIT taxable.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "Fringe Vac-BLDG",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "DEDUCTION",
+      "componentId": "1030035105128472",
+      "description": "Use for any normal employee deduction.",
+      "effectOnPay": "REDUCTION",
+      "name": "Fringe Vac Heavy -",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "INFORMATIONAL",
+      "componentId": "1030035068190680",
+      "description": "Use for information purposes only.",
+      "effectOnPay": "EMPLOYER_INFORMATIONAL",
+      "name": "APPR-BLDG",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "FRINGE_BENEFITS",
+      "componentId": "1030035076819812",
+      "description": "Use for non-cash fringe benefits that are FICA, FUTA, and FIT taxable.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "Fringe Vac-HEAVY",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "DEDUCTION",
+      "componentId": "1030035104595316",
+      "description": "Use for any normal employee deduction.",
+      "effectOnPay": "REDUCTION",
+      "name": "Fringe Vac Bldg -",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "UNION_DUES",
+      "componentId": "1030035054218870",
+      "description": "Use for union dues.",
+      "effectOnPay": "REDUCTION",
+      "name": "Supplemental-Bldg",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1030035058187413",
+      "description": "Use for employer pretax catch up contributions to a Section 401(k) retirement plan for participants aged 50 and older or employer catch up contributions to a Roth 401(k) retirement plan for participants aged 50 and older.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "PX401 ERCUM",
+      "startDate": "2019-09-11T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1030035058187285",
+      "description": "Use for employer paid pretax contributions to a Section 401(k) deferred retirement plan or employer contributions to a Roth 401(k) retirement plan.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "PX401 ERMTCH",
+      "startDate": "2019-09-11T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1030035058187169",
+      "description": "Use for Section 401(k) loan repayments.",
+      "effectOnPay": "REDUCTION",
+      "name": "PX401 LN PMT",
+      "startDate": "2019-09-11T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1030035058187376",
+      "description": "Use for employee catch up contributions to a Roth 401(k) retirement plan for participants aged 50 and older.",
+      "effectOnPay": "REDUCTION",
+      "name": "PXROTH 401 EECU",
+      "startDate": "2019-09-11T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1030035058187211",
+      "description": "Use for employee pretax catch up contributions to a Section 401(k) retirement plan for participants aged 50 or older.",
+      "effectOnPay": "REDUCTION",
+      "name": "PX401 EECU",
+      "startDate": "2019-09-11T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1030035058187132",
+      "description": "Use for employee paid pretax contributions to a qualified Section 401(k) retirement plan (elective salary deferral).",
+      "effectOnPay": "REDUCTION",
+      "name": "PX401 EEPRE",
+      "startDate": "2019-09-11T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1030035058187248",
+      "description": "Use for employee contributions to a Roth 401(k) retirement plan.",
+      "effectOnPay": "REDUCTION",
+      "name": "PXROTH 401 EEPO",
+      "startDate": "2019-09-11T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1030035058187334",
+      "description": "Use for Section 401(k) loan repayments.",
+      "effectOnPay": "REDUCTION",
+      "name": "PX401 LN PMT 2",
+      "startDate": "2019-09-11T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "INDEPENDENT_CONTRACTOR",
+        "EMPLOYEE"
+      ],
+      "classificationType": "INFORMATIONAL",
+      "componentId": "1070025375189207",
+      "description": "Insurance (Health and Benefits) contributions that are charged/invoiced to the employer per pay period.",
+      "effectOnPay": "EMPLOYER_INFORMATIONAL",
+      "name": "PENS",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "GARNISHMENTS",
+      "componentId": "1070025488313629",
+      "description": "Use for garnishments.",
+      "effectOnPay": "REDUCTION",
+      "name": "Garnishment1",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "SUPPLEMENTAL",
+      "componentId": "1070025356201677",
+      "description": "Use for overtime pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Doubletime",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "SICK_PAY",
+      "componentId": "1070025285256657",
+      "description": "Use for non-qualified sick pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Sick",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "SUPPLEMENTAL",
+      "componentId": "1070025285256620",
+      "description": "Use for bonus pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Bonus",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1070025285256583",
+      "description": "Use for holiday pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Holiday",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1070025285256546",
+      "description": "Use for vacation pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Vacation",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "SUPPLEMENTAL",
+      "componentId": "1070025284957501",
+      "description": "Use for overtime pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Overtime",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1070025284957464",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Salary",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1070025284957427",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Hourly",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "INDEPENDENT_CONTRACTOR",
+        "EMPLOYEE"
+      ],
+      "classificationType": "GARNISHMENTS",
+      "componentId": "1070025355126541",
+      "description": "Use for garnishments.",
+      "effectOnPay": "REDUCTION",
+      "name": "Child Support",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1070025356201821",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Commission",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1070025355593340",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Retro Pay",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1070025355126617",
+      "description": "Use for employee contributions to a Roth 401(k) retirement plan.",
+      "effectOnPay": "REDUCTION",
+      "name": "Roth 401k EE",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "GARNISHMENTS",
+      "componentId": "1070025355126472",
+      "description": "Use for garnishments.",
+      "effectOnPay": "REDUCTION",
+      "name": "Garnishment",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "DEDUCTION",
+      "componentId": "1070025354785358",
+      "description": "Use for any normal employee deduction.",
+      "effectOnPay": "REDUCTION",
+      "name": "Uniform",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "DEDUCTION",
+      "componentId": "1070025356202151",
+      "description": "Use for any normal employee deduction.",
+      "effectOnPay": "REDUCTION",
+      "name": "Equipment",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1070025354785512",
+      "description": "Use for employee paid pretax contributions to a qualified Section 401(k) retirement plan (elective salary deferral).",
+      "effectOnPay": "REDUCTION",
+      "name": "401k EE Pretax",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "SUPPLEMENTAL",
+      "componentId": "1070025356201913",
+      "description": "Use for severance pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Severance",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1070025376710648",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Gross Wages",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "INDEPENDENT_CONTRACTOR",
+        "EMPLOYEE"
+      ],
+      "classificationType": "GARNISHMENTS",
+      "componentId": "1070025356203692",
+      "description": "Use for garnishments.",
+      "effectOnPay": "REDUCTION",
+      "name": "Child Support 2",
+      "startDate": "2015-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1070026605435371",
+      "description": "Use for Section 401(k) loan repayments.",
+      "effectOnPay": "REDUCTION",
+      "name": "401k Loan Payment",
+      "startDate": "2016-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_106",
+      "componentId": "1070027218956960",
+      "description": "Use for employee pretax contributions under a Section 125 cafeteria plan for Section 106 employer provided accident and health insurance coverage.",
+      "effectOnPay": "REDUCTION",
+      "name": "PXVIS EE PRE",
+      "startDate": "2017-03-09T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_129_CAFETERIA",
+      "componentId": "1070027218956766",
+      "description": "Use for employee pretax contributions under a Section 125 cafeteria plan for Section 129 dependent care assistance.",
+      "effectOnPay": "REDUCTION",
+      "name": "PXDCA EE PRE",
+      "startDate": "2017-03-09T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_106",
+      "componentId": "1070027218956728",
+      "description": "Use for employee pretax contributions under a Section 125 cafeteria plan for Section 106 employer provided accident and health insurance coverage.",
+      "effectOnPay": "REDUCTION",
+      "name": "PXCMP EE PRE",
+      "startDate": "2017-03-09T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_105",
+      "componentId": "1070027218956923",
+      "description": "Use for employer pretax contributions under a Section 125 cafeteria plan for a flexible spending account for medical expenses.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "PXUME ER PRE",
+      "startDate": "2017-03-09T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_105",
+      "componentId": "1070027218956882",
+      "description": "Use for employee pretax contributions under a Section 125 cafeteria plan for a flexible spending account for medical expenses.",
+      "effectOnPay": "REDUCTION",
+      "name": "PXUME EE PRE",
+      "startDate": "2017-03-09T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_106",
+      "componentId": "1070027218956844",
+      "description": "Use for employee pretax contributions under a Section 125 cafeteria plan for Section 106 employer provided accident and health insurance coverage.",
+      "effectOnPay": "REDUCTION",
+      "name": "PXDEN EE PRE",
+      "startDate": "2017-03-09T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_129_CAFETERIA",
+      "componentId": "1070027218956807",
+      "description": "Use for employer pretax contributions under a Section 125 cafeteria plan for Section 129 dependent care assistance.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "PXDCA ER PRE",
+      "startDate": "2017-03-09T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "INDEPENDENT_CONTRACTOR",
+        "EMPLOYEE"
+      ],
+      "classificationType": "DEDUCTION",
+      "componentId": "1070028574036907",
+      "description": "Use for any normal employee deduction.",
+      "effectOnPay": "REDUCTION",
+      "name": "Boot Program",
+      "startDate": "2017-06-13T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "GARNISHMENTS",
+      "componentId": "1070029369345400",
+      "description": "Use for garnishments.",
+      "effectOnPay": "REDUCTION",
+      "name": "Vehicle Registration",
+      "startDate": "2017-08-07T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1070035771897788",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Split Shift Premium",
+      "startDate": "2017-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1070035771897744",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Meal Premium",
+      "startDate": "2017-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1070034747234416",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Jury Duty",
+      "startDate": "2017-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1070034747234335",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Bereavement",
+      "startDate": "2017-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_106",
+      "componentId": "1070034249775279",
+      "description": "Use to process Employee post tax contributions (including post tax contributions under an IRC Sec. 125 Caf Plan) for Sec. 106 Accident and Health Insurance Coverage.",
+      "effectOnPay": "REDUCTION",
+      "name": "Voluntary Life",
+      "startDate": "2018-07-09T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_106",
+      "componentId": "1070034249775316",
+      "description": "Use to process Employee post tax contributions (including post tax contributions under an IRC Sec. 125 Caf Plan) for Sec. 106 Accident and Health Insurance Coverage.",
+      "effectOnPay": "REDUCTION",
+      "name": "Accident",
+      "startDate": "2018-07-09T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_106",
+      "componentId": "1070034249775353",
+      "description": "Use to process Employee post tax contributions (including post tax contributions under an IRC Sec. 125 Caf Plan) for Sec. 106 Accident and Health Insurance Coverage.",
+      "effectOnPay": "REDUCTION",
+      "name": "Hospital Confinement",
+      "startDate": "2018-07-09T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_106",
+      "componentId": "1070034249775390",
+      "description": "Use to process Employee post tax contributions (including post tax contributions under an IRC Sec. 125 Caf Plan) for Sec. 106 Accident and Health Insurance Coverage.",
+      "effectOnPay": "REDUCTION",
+      "name": "Critical Illness",
+      "startDate": "2018-07-09T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_106",
+      "componentId": "1070034395065125",
+      "description": "Use for employee pretax contributions under a Section 125 cafeteria plan for Section 106 employer provided accident and health insurance coverage.",
+      "effectOnPay": "REDUCTION",
+      "name": "Benefits Repayment",
+      "startDate": "2018-07-18T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_106",
+      "componentId": "1070037213253722",
+      "description": "Use to process Employee post tax contributions (including post tax contributions under an IRC Sec. 125 Caf Plan) for Sec. 106 Accident and Health Insurance Coverage.",
+      "effectOnPay": "REDUCTION",
+      "name": "Benefits Repay Post",
+      "startDate": "2019-01-29T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030012697062669",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Salary",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1030012758444341",
+      "description": "Use for employee paid pretax contributions to a qualified Section 401(k) retirement plan (elective salary deferral).",
+      "effectOnPay": "REDUCTION",
+      "name": "401k EE Pretax",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "TRANSPORTATION_BENEFIT",
+      "componentId": "1030012758441715",
+      "description": "Use for employee paid Section 132 qualified parking expenses.",
+      "effectOnPay": "REDUCTION",
+      "name": "Parking EE Paid",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "SUPPLEMENTAL",
+      "componentId": "1030012758441514",
+      "description": "Use for supplemental wages.",
+      "effectOnPay": "ADDITION",
+      "name": "Supplemental",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "FRINGE_BENEFITS",
+      "componentId": "1030012758441674",
+      "description": "Use for cash fringe benefit which is included in the employee's check.",
+      "effectOnPay": "ADDITION",
+      "name": "Fringe Cash",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1030012758444298",
+      "description": "Use for employer paid pretax contributions to a Section 401(k) deferred retirement plan or employer contributions to a Roth 401(k) retirement plan.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "401k ER",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "FRINGE_BENEFITS",
+      "componentId": "1030012758441594",
+      "description": "Use for meals that are furnished in kind for the convenience of the employer under Section 119.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "Meals",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_106",
+      "componentId": "1030012758444540",
+      "description": "Use to report the portion of the EE paid Health Ins Premium that is only for coverage of a state recognized \"Civil Union\" partner and/or state recognized \"Domestic Partner\" but who is not a Sec 152 Dependent of the Employee.",
+      "effectOnPay": "REDUCTION",
+      "name": "POP EE Dom Partnr",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_105",
+      "componentId": "1030012758444216",
+      "description": "Use for employer pretax contributions under a Section 125 cafeteria plan for a flexible spending account for medical expenses.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "Med FSA ER",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "SICK_PAY",
+      "componentId": "1030012758444661",
+      "description": "Use for short-term disability payments.",
+      "effectOnPay": "ADDITION",
+      "name": "ST DBL PMT",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "TRANSPORTATION_BENEFIT",
+      "componentId": "1030012758444460",
+      "description": "Use for employer reimbursements for Section 132 qualified transit pass and/or van pooling expenses.",
+      "effectOnPay": "ADDITION",
+      "name": "Commuting ER Reimb",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1030012758444255",
+      "description": "Use for employer pretax catch up contributions to a Section 401(k) retirement plan for participants aged 50 and older or employer catch up contributions to a Roth 401(k) retirement plan for participants aged 50 and older.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "401k ER Catch Up",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "FRINGE_BENEFITS",
+      "componentId": "1030012758442123",
+      "description": "Use for imputed value of employer provided group term life insurance coverage in excess of 50,000.00.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "Group Term Life",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_129_CAFETERIA",
+      "componentId": "1030012758442084",
+      "description": "Use for employee post-tax contributions under a Section 125 cafeteria plan for Section 129 dependent care assistance.",
+      "effectOnPay": "REDUCTION",
+      "name": "Dep Care EE Post Tax",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "UNION_DUES",
+      "componentId": "1030012758441877",
+      "description": "Use for union dues.",
+      "effectOnPay": "REDUCTION",
+      "name": "Union dues",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "MOVING_EXPENSES",
+      "componentId": "1030012758441635",
+      "description": "Use for specific non-qualified moving expenses (i.e., pre-move house hunting expenses, temporary living expenses, expenses relating to a lease, settlement or sale of the old residence, the purchase or lease of a new residence, or meal expenses). Also use for PA qualified moving expenses the employer pays directly to an employee - the direct cost of moving household goods and seasonal effects, including up to 30 days of storage before moving into the new residence, and travel and lodging expenses for moving from the old residence to the new residence (this does not include the cost of meals).  The new work location is between 35 and 49 miles farther from the employee's former residence than the former work location was.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "Moving Non Qualified",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "TIPS",
+      "componentId": "1030012758441555",
+      "description": "Use for cash tips.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "Tips Cash",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE",
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "DEDUCTION",
+      "componentId": "1030012758441475",
+      "description": "Use for any normal employee deduction.",
+      "effectOnPay": "REDUCTION",
+      "name": "Deduction",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "FRINGE_BENEFITS",
+      "componentId": "1030012758444421",
+      "description": "Use for lodging furnished in kind to the employee for the convenience of the employer under Section 119.",
+      "effectOnPay": "ADDITION_WITH_IN_OUT",
+      "name": "Lodging",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "FRINGE_BENEFITS",
+      "componentId": "1030012758444380",
+      "description": "Use for cash fringe benefits that are FICA, FUTA and FIT taxable.",
+      "effectOnPay": "ADDITION",
+      "name": "Fringe Cash Taxable",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "IRC_106",
+      "componentId": "1030012758444579",
+      "description": "Use to process Employee post tax contributions (including post tax contributions under an IRC Sec. 125 Caf Plan) for Sec. 106 Accident and Health Insurance Coverage.",
+      "effectOnPay": "REDUCTION",
+      "name": "POP EE Post Tax",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1030012758442045",
+      "description": "Use for Section 401(k) loan repayments.",
+      "effectOnPay": "REDUCTION",
+      "name": "401k Loan Payment",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "SUPPLEMENTAL",
+      "componentId": "1030012758441835",
+      "description": "Use for overtime pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Overtime 2.0",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "SICK_PAY",
+      "componentId": "1030012697062867",
+      "description": "Use for non-qualified sick pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Sick",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "SUPPLEMENTAL",
+      "componentId": "1030012697062828",
+      "description": "Use for bonus pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Bonus",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030012697062788",
+      "description": "Use for holiday pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Holiday",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030012697062748",
+      "description": "Use for vacation pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Vacation",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "SUPPLEMENTAL",
+      "componentId": "1030012697062709",
+      "description": "Use for overtime pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Overtime",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "_401K",
+      "componentId": "1030012758444501",
+      "description": "Use for employee pretax military make up contributions to a Section 401(k) retirement plan.",
+      "effectOnPay": "REDUCTION",
+      "name": "401k EE MilitaryMkup",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "REGULAR",
+      "componentId": "1030012697062629",
+      "description": "Use for regular pay.",
+      "effectOnPay": "ADDITION",
+      "name": "Hourly",
+      "startDate": "2018-12-31T16:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "_1099_MISC",
+      "componentId": "1030012697005157",
+      "description": "Use for other income such as payments received as the beneficiary of a deceased employee, prizes, awards, taxable damages, Indian gaming profits, or other taxable income on Form 1099-MISC, box 3.",
+      "effectOnPay": "ADDITION",
+      "name": "1099-MISC Other Inc",
+      "startDate": "2019-04-01T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "_1099_MISC",
+      "componentId": "1030012697005121",
+      "description": "Use for rents from real estate on Form 1099-MISC, box 1.",
+      "effectOnPay": "ADDITION",
+      "name": "1099-MISC Rents",
+      "startDate": "2019-04-01T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "INDEPENDENT_CONTRACTOR"
+      ],
+      "classificationType": "_1099_MISC",
+      "componentId": "1030012697005085",
+      "description": "Use for non-employee compensation on Form 1099-MISC, box 7.",
+      "effectOnPay": "ADDITION",
+      "name": "1099-MISC comp",
+      "startDate": "2019-04-01T17:00:00Z"
+    },
+    {
+      "appliesToWorkerTypes": [
+        "EMPLOYEE"
+      ],
+      "classificationType": "FRINGE_BENEFITS",
+      "componentId": "1050038173527754",
+      "description": "Use for cash fringe benefits that are FICA, FUTA and FIT taxable.",
+      "effectOnPay": "ADDITION",
+      "name": "Fringe",
+      "startDate": "2018-1-1T16:00:00Z"
+    }
+  ],
+  "metadata": {
+    "contentItemCount": 117
+  }
+}
+
